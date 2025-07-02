@@ -1,0 +1,12 @@
+{
+  "hash": "b8f58f74f40b031c2bf6054deddf6197",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"food_search\"\nformat: \n    html:\n        number-sections: true\n        html-table-processing: none\njupyter: food_search # uv run python -m ipykernel install --user --name food_search\necho: false\nexecute:\n  freeze: auto  # re-render only when source changes\n---\n\n# Executive Summary\n\nThis document summarises the food_search ...\n\nInteractive Food Search and RAG chatbot system\n\n## Key info\n\n-   Repository name: food_search\n-   Author: William Lee\n-   Repository location: git@github.com:actuaristai/food_search.git\n\n",
+    "supporting": [
+      "data_product_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
