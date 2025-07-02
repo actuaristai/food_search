@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "docs/data_product.html",
+    "href": "docs/data_product.html",
+    "title": "food_search",
+    "section": "",
+    "text": "This document summarises the food_search …\nInteractive Food Search and RAG chatbot system\n\n\n\nRepository name: food_search\nAuthor: William Lee\nRepository location: git@github.com:actuaristai/food_search.git"
+  },
+  {
+    "objectID": "docs/data_product.html#key-info",
+    "href": "docs/data_product.html#key-info",
+    "title": "food_search",
+    "section": "",
+    "text": "Repository name: food_search\nAuthor: William Lee\nRepository location: git@github.com:actuaristai/food_search.git"
+  },
+  {
     "objectID": "reference/index.html",
     "href": "reference/index.html",
     "title": "Function reference",
@@ -20,20 +34,6 @@
       "Reference API",
       "Function reference"
     ]
-  },
-  {
-    "objectID": "docs/data_product.html",
-    "href": "docs/data_product.html",
-    "title": "food_search",
-    "section": "",
-    "text": "This document summarises the food_search …\nInteractive Food Search and RAG chatbot system\n\n\n\nRepository name: food_search\nAuthor: William Lee\nRepository location: git@github.com:actuaristai/food_search.git"
-  },
-  {
-    "objectID": "docs/data_product.html#key-info",
-    "href": "docs/data_product.html#key-info",
-    "title": "food_search",
-    "section": "",
-    "text": "Repository name: food_search\nAuthor: William Lee\nRepository location: git@github.com:actuaristai/food_search.git"
   },
   {
     "objectID": "reference/hello.html",
